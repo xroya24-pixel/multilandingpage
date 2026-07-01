@@ -218,6 +218,13 @@
       switchBrand(this.value);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
+
+    // Dev info button (delegated)
+    document.addEventListener('click', function (e) {
+      if (e.target && e.target.getAttribute('data-dev-info') === '') {
+        alert('YAIPlatform adalah platform multi-brand untuk berbagai kebutuhan bisnis.\n\nDikembangkan dengan cinta dan kopi. \u2615');
+      }
+    });
   });
 
   window.switchBrand = switchBrand;

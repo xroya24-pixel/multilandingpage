@@ -189,7 +189,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Properti. All rights reserved.',
+      copyright: '&copy; 2026 Properti. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -286,7 +286,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Klinik. All rights reserved.',
+      copyright: '&copy; 2026 Klinik. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -383,7 +383,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Travel. All rights reserved.',
+      copyright: '&copy; 2026 Travel. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -480,7 +480,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Dealer Mobil. All rights reserved.',
+      copyright: '&copy; 2026 Dealer Mobil. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -577,7 +577,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Dealer Motor. All rights reserved.',
+      copyright: '&copy; 2026 Dealer Motor. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -674,7 +674,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Sekolah. All rights reserved.',
+      copyright: '&copy; 2026 Sekolah. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -771,7 +771,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Software House. All rights reserved.',
+      copyright: '&copy; 2026 Software House. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -868,7 +868,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Digital Agency. All rights reserved.',
+      copyright: '&copy; 2026 Digital Agency. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -965,7 +965,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Wedding. All rights reserved.',
+      copyright: '&copy; 2026 Wedding. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 
@@ -1062,7 +1062,7 @@ var BRANDS = {
         { label: 'Instagram', link: '#', icon: SVG_ICONS['camera'] },
         { label: 'YouTube', link: '#', icon: SVG_ICONS['monitor'] },
       ],
-      copyright: '&copy; 2026 Hotel. All rights reserved.',
+      copyright: '&copy; 2026 Hotel. All rights reserved.' + ' Dibuat oleh <a href="https://yaiapps.vercel.app/" target="_blank" rel="noopener" class="footer__dev-link">YAIPlatform</a>.&nbsp;|&nbsp;<button class="footer__dev-info" data-dev-info>Tentang Pengembang</button>',
     },
   },
 };
