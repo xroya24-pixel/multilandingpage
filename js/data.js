@@ -105,7 +105,7 @@ var BRANDS = {
       description: 'Solusi properti terpercaya untuk hunian dan investasi. Jual, beli, sewa properti dengan harga terbaik.',
       ogTitle: 'Properti — YAIPLATFORM',
       ogDescription: 'Solusi properti terpercaya untuk hunian dan investasi.',
-      ogImage: 'https://images.unsplash.com/photo-_fAesnpmWVo?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1716807335095-8948ce6ab482?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Properti',
     },
@@ -118,7 +118,7 @@ var BRANDS = {
     about: {
       title: 'Mitris Properti Terpercaya Sejak 2015',
       description: 'Kami adalah platform properti terdepan yang menghubungkan pembeli, penjual, dan penyewa dengan properti terbaik di Indonesia. Dengan pengalaman lebih dari 8 tahun, kami telah membantu ribuan klien menemukan properti impian mereka. Tim profesional kami berkomitmen memberikan layanan transparan, cepat, dan terpercaya di setiap transaksi.',
-      image: 'https://images.unsplash.com/photo-mfFyocD9ttI?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1771327811795-6197403af846?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -143,10 +143,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Proyek <span class="text-accent">Unggulan</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-7qD-iDyrdHY?w=600&q=80&auto=format&fit=crop', title: 'Greenland Residence', category: 'Perumahan' },
-        { image: 'https://images.unsplash.com/photo-xFMCNp4CW38?w=600&q=80&auto=format&fit=crop', title: 'Skyline Office Tower', category: 'Komersial' },
-        { image: 'https://images.unsplash.com/photo-eWOgoFHlE8g?w=600&q=80&auto=format&fit=crop', title: 'Botania Garden Estate', category: 'Perumahan' },
-        { image: 'https://images.unsplash.com/photo-Ez7fz5mavj0?w=600&q=80&auto=format&fit=crop', title: 'Platinum Business Park', category: 'Komersial' },
+        { image: 'https://images.unsplash.com/photo-1756435292384-1bf32eff7baf?w=600&q=80&auto=format&fit=crop', title: 'Greenland Residence', category: 'Perumahan' },
+        { image: 'https://images.unsplash.com/photo-1777115470083-950377731c61?w=600&q=80&auto=format&fit=crop', title: 'Skyline Office Tower', category: 'Komersial' },
+        { image: 'https://images.unsplash.com/photo-1758448756207-54505680d130?w=600&q=80&auto=format&fit=crop', title: 'Botania Garden Estate', category: 'Perumahan' },
+        { image: 'https://images.unsplash.com/photo-1776362355123-ca966d36e29c?w=600&q=80&auto=format&fit=crop', title: 'Platinum Business Park', category: 'Komersial' },
       ],
     },
     testimonials: {
@@ -201,7 +201,7 @@ var BRANDS = {
       description: 'Layanan kesehatan modern dengan tenaga medis profesional dan fasilitas terkini.',
       ogTitle: 'Klinik — YAIPLATFORM',
       ogDescription: 'Layanan kesehatan modern dengan tenaga medis profesional dan fasilitas terkini.',
-      ogImage: 'https://images.unsplash.com/photo-unpmq8bHqek?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1669930605340-801a0be1f5a3?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Klinik',
     },
@@ -214,7 +214,7 @@ var BRANDS = {
     about: {
       title: 'Layanan Kesehatan Terpercaya',
       description: 'Klinik kami hadir sejak 2016 dengan visi memberikan layanan kesehatan berkualitas tinggi untuk masyarakat. Dengan dukungan dokter spesialis dan peralatan medis modern, kami berkomitmen memberikan pelayanan terbaik. Setiap pasien mendapatkan perhatian penuh dan perawatan yang personal.',
-      image: 'https://images.unsplash.com/photo-jkQzYGJ7dBA?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1666887360388-93e684b6474a?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -239,10 +239,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Fasilitas <span class="text-accent">Kami</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-bJGlmBnsFs8?w=600&q=80&auto=format&fit=crop', title: 'Ruang Konsultasi Modern', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-lDH1fxwguxw?w=600&q=80&auto=format&fit=crop', title: 'Laboratorium Diagnostik', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-JJEOuvnY1Tw?w=600&q=80&auto=format&fit=crop', title: 'Rawat Inap Premium', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-HGiYag5IjXw?w=600&q=80&auto=format&fit=crop', title: 'Unit Gawat Darurat', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1758653500388-36b051468d09?w=600&q=80&auto=format&fit=crop', title: 'Ruang Konsultasi Modern', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1758691462268-fbe66c4f3e28?w=600&q=80&auto=format&fit=crop', title: 'Laboratorium Diagnostik', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1758691463384-771db2f192b3?w=600&q=80&auto=format&fit=crop', title: 'Rawat Inap Premium', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1758691463393-a2aa9900af8a?w=600&q=80&auto=format&fit=crop', title: 'Unit Gawat Darurat', category: 'Fasilitas' },
       ],
     },
     testimonials: {
@@ -297,7 +297,7 @@ var BRANDS = {
       description: 'Pengalaman perjalanan tak terlupakan dengan layanan terbaik. Paket wisata domestik dan internasional.',
       ogTitle: 'Travel — YAIPLATFORM',
       ogDescription: 'Pengalaman perjalanan tak terlupakan dengan layanan terbaik.',
-      ogImage: 'https://images.unsplash.com/photo-zGl2I0S9HhI?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1777907605110-14900b1789b7?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Travel',
     },
@@ -310,7 +310,7 @@ var BRANDS = {
     about: {
       title: 'Mitra Perjalanan Terpercaya',
       description: 'Sejak 2017, kami telah membantu ribuan wisatawan merencanakan perjalanan impian mereka. Dengan jaringan mitra di berbagai destinasi, kami menawarkan paket wisata berkualitas dengan harga kompetitif. Tim travel consultant kami siap memberikan rekomendasi terbaik untuk liburan Anda.',
-      image: 'https://images.unsplash.com/photo-oPigK6Z7V3c?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1776987622906-568e25ea38b4?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -335,10 +335,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Destinasi <span class="text-accent">Populer</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-tWD5X5qDVM8?w=600&q=80&auto=format&fit=crop', title: 'Bali Paradise Tour', category: 'Domestik' },
-        { image: 'https://images.unsplash.com/photo-Racqz_gECu4?w=600&q=80&auto=format&fit=crop', title: 'Tokyo Adventure', category: 'Internasional' },
-        { image: 'https://images.unsplash.com/photo-8Gz7gAcO6as?w=600&q=80&auto=format&fit=crop', title: 'Raja Ampat Dive', category: 'Domestik' },
-        { image: 'https://images.unsplash.com/photo-6YH4KJ_scNM?w=600&q=80&auto=format&fit=crop', title: 'European Highlights', category: 'Internasional' },
+        { image: 'https://images.unsplash.com/photo-1772654378677-3b43475a4a24?w=600&q=80&auto=format&fit=crop', title: 'Bali Paradise Tour', category: 'Domestik' },
+        { image: 'https://images.unsplash.com/photo-1777994404844-a7da5d98a58d?w=600&q=80&auto=format&fit=crop', title: 'Tokyo Adventure', category: 'Internasional' },
+        { image: 'https://images.unsplash.com/photo-1776776236588-bd5630bc86b8?w=600&q=80&auto=format&fit=crop', title: 'Raja Ampat Dive', category: 'Domestik' },
+        { image: 'https://images.unsplash.com/photo-1777669212781-dddba54b1602?w=600&q=80&auto=format&fit=crop', title: 'European Highlights', category: 'Internasional' },
       ],
     },
     testimonials: {
@@ -393,7 +393,7 @@ var BRANDS = {
       description: 'Koleksi mobil berkualitas dengan harga terbaik dan layanan purna jual terpercaya.',
       ogTitle: 'Dealer Mobil — YAIPLATFORM',
       ogDescription: 'Koleksi mobil berkualitas dengan harga terbaik dan layanan purna jual terpercaya.',
-      ogImage: 'https://images.unsplash.com/photo-ogN-s4fsff8?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1755288348267-3b8bf38e7961?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Dealer Mobil',
     },
@@ -402,12 +402,12 @@ var BRANDS = {
       subtitle: 'Koleksi mobil berkualitas dengan harga terbaik. Proses cepat, terpercaya, dan layanan purna jual yang lengkap.',
       cta: 'Lihat Koleksi',
       ctaLink: '#contact',
-      bgImage: 'https://images.unsplash.com/photo-ogN-s4fsff8?w=1920&q=80&auto=format&fit=crop',
+      bgImage: 'https://images.unsplash.com/photo-1755288348267-3b8bf38e7961?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Dealer Mobil Terpercaya',
       description: 'Dealer Mobil hadir sejak 2015 sebagai salah satu dealer mobil terpercaya di Indonesia. Kami menyediakan berbagai pilihan mobil baru dan bekas berkualitas dengan proses pembelian yang mudah dan transparan. Tim sales profesional kami siap membantu Anda menemukan mobil yang tepat sesuai kebutuhan dan anggaran.',
-      image: 'https://images.unsplash.com/photo-tkWYw_15Fsk?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1744921761306-b1ea64e5babf?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -432,10 +432,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Koleksi <span class="text-accent">Unggulan</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-WcTsBhabeDs?w=600&q=80&auto=format&fit=crop', title: 'SUV Premium Series', category: 'Mobil Baru' },
-        { image: 'https://images.unsplash.com/photo-wzzZNXU6KAI?w=600&q=80&auto=format&fit=crop', title: 'Sedan Executive', category: 'Mobil Baru' },
-        { image: 'https://images.unsplash.com/photo-m7hUegYZp14?w=600&q=80&auto=format&fit=crop', title: 'Hatchback Bekas Terbaik', category: 'Mobil Bekas' },
-        { image: 'https://images.unsplash.com/photo-20urbFjQgvQ?w=600&q=80&auto=format&fit=crop', title: 'MPV Keluarga', category: 'Mobil Baru' },
+        { image: 'https://images.unsplash.com/photo-1779599507352-1e6e736b3f5f?w=600&q=80&auto=format&fit=crop', title: 'SUV Premium Series', category: 'Mobil Baru' },
+        { image: 'https://images.unsplash.com/photo-1758411898236-60451aa6c6c9?w=600&q=80&auto=format&fit=crop', title: 'Sedan Executive', category: 'Mobil Baru' },
+        { image: 'https://images.unsplash.com/photo-1765522022000-3e1f428d3060?w=600&q=80&auto=format&fit=crop', title: 'Hatchback Bekas Terbaik', category: 'Mobil Bekas' },
+        { image: 'https://images.unsplash.com/photo-1758216991743-110e7a093f29?w=600&q=80&auto=format&fit=crop', title: 'MPV Keluarga', category: 'Mobil Baru' },
       ],
     },
     testimonials: {
@@ -490,7 +490,7 @@ var BRANDS = {
       description: 'Koleksi motor terlengkap dengan harga bersaing dan layanan purna jual terpercaya.',
       ogTitle: 'Dealer Motor — YAIPLATFORM',
       ogDescription: 'Koleksi motor terlengkap dengan harga bersaing dan layanan purna jual terpercaya.',
-      ogImage: 'https://images.unsplash.com/photo-ZZWj4dnIMe0?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1741295017671-c0a4be2db1af?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Dealer Motor',
     },
@@ -499,12 +499,12 @@ var BRANDS = {
       subtitle: 'Koleksi motor terlengkap dari berbagai merek ternama. Proses cepat, harga bersaing, dan layanan purna jual terpercaya.',
       cta: 'Lihat Koleksi',
       ctaLink: '#contact',
-      bgImage: 'https://images.unsplash.com/photo-ZZWj4dnIMe0?w=1920&q=80&auto=format&fit=crop',
+      bgImage: 'https://images.unsplash.com/photo-1741295017671-c0a4be2db1af?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Mitra Motor Terpercaya',
       description: 'Dealer Motor telah melayani pecinta motor tanah air sejak 2016. Kami menyediakan motor baru dan bekas berkualitas dari berbagai merek. Dengan jaringan luas dan tim sales yang profesional, kami berkomitmen memberikan pengalaman terbaik dalam membeli motor.',
-      image: 'https://images.unsplash.com/photo-PNQ1TlFviIk?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1682980798344-6feac9455e66?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -529,10 +529,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Koleksi <span class="text-accent">Terbaru</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-bzQSCIhzgaA?w=600&q=80&auto=format&fit=crop', title: 'Sport Bike Series', category: 'Motor Baru' },
-        { image: 'https://images.unsplash.com/photo-r0t6vd8k8nc?w=600&q=80&auto=format&fit=crop', title: 'Matic Premium', category: 'Motor Baru' },
-        { image: 'https://images.unsplash.com/photo-jfLMnjoR9qE?w=600&q=80&auto=format&fit=crop', title: 'Bekas Berkualitas', category: 'Motor Bekas' },
-        { image: 'https://images.unsplash.com/photo-ByuGb5J5sU0?w=600&q=80&auto=format&fit=crop', title: 'Trail & Dual Purpose', category: 'Motor Baru' },
+        { image: 'https://images.unsplash.com/photo-1676247032870-ad07a462a864?w=600&q=80&auto=format&fit=crop', title: 'Sport Bike Series', category: 'Motor Baru' },
+        { image: 'https://images.unsplash.com/photo-1761000989410-3fa81f1b94cb?w=600&q=80&auto=format&fit=crop', title: 'Matic Premium', category: 'Motor Baru' },
+        { image: 'https://images.unsplash.com/photo-1753476996141-a64650090ee4?w=600&q=80&auto=format&fit=crop', title: 'Bekas Berkualitas', category: 'Motor Bekas' },
+        { image: 'https://images.unsplash.com/photo-1762012507743-62d6a3627cb2?w=600&q=80&auto=format&fit=crop', title: 'Trail & Dual Purpose', category: 'Motor Baru' },
       ],
     },
     testimonials: {
@@ -587,7 +587,7 @@ var BRANDS = {
       description: 'Pendidikan berkualitas untuk membentuk generasi penerus yang cerdas, berkarakter, dan berprestasi.',
       ogTitle: 'Sekolah — YAIPLATFORM',
       ogDescription: 'Pendidikan berkualitas untuk membentuk generasi penerus yang cerdas, berkarakter, dan berprestasi.',
-      ogImage: 'https://images.unsplash.com/photo-RTFX0TQHXko?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Sekolah',
     },
@@ -600,7 +600,7 @@ var BRANDS = {
     about: {
       title: 'Pendidikan Berkualitas untuk Masa Depan',
       description: 'Sekolah kami berdiri sejak 2000 dengan visi menciptakan generasi unggul yang siap menghadapi tantangan global. Dengan kurikulum nasional dan internasional, kami mengembangkan potensi akademik, karakter, dan bakat setiap siswa. Didukung oleh guru berkualitas dan fasilitas modern, kami berkomitmen memberikan pendidikan terbaik.',
-      image: 'https://images.unsplash.com/photo-5mVaw1KKwHo?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1758685734034-54e1da4ac7c2?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Program <span class="text-accent">Kami</span>',
@@ -625,10 +625,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Fasilitas <span class="text-accent">Unggulan</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-LR1-jJ5XgoI?w=600&q=80&auto=format&fit=crop', title: 'Laboratorium Sains', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-gEnM-OAr0Rg?w=600&q=80&auto=format&fit=crop', title: 'Perpustakaan Digital', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-14jNrPntbgk?w=600&q=80&auto=format&fit=crop', title: 'Lapangan Olahraga', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-UStQpco0TWo?w=600&q=80&auto=format&fit=crop', title: 'Ruang Seni & Musik', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1741699427706-7bfb38c716d8?w=600&q=80&auto=format&fit=crop', title: 'Laboratorium Sains', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1770235622881-7c3b96af6972?w=600&q=80&auto=format&fit=crop', title: 'Perpustakaan Digital', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1758270704925-fa59d93119c1?w=600&q=80&auto=format&fit=crop', title: 'Lapangan Olahraga', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1758685734030-a31d96462eec?w=600&q=80&auto=format&fit=crop', title: 'Ruang Seni & Musik', category: 'Fasilitas' },
       ],
     },
     testimonials: {
@@ -683,7 +683,7 @@ var BRANDS = {
       description: 'Pengembangan software kustom, mobile apps, dan solusi digital untuk bisnis Anda.',
       ogTitle: 'Software House — YAIPLATFORM',
       ogDescription: 'Pengembangan software kustom, mobile apps, dan solusi digital untuk bisnis Anda.',
-      ogImage: 'https://images.unsplash.com/photo-bWVBCDtTRJI?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1753715613434-9c7cb58876b9?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Software House',
     },
@@ -692,12 +692,12 @@ var BRANDS = {
       subtitle: 'Kami mengembangkan software kustom, aplikasi mobile, dan platform digital yang mendorong pertumbuhan bisnis Anda.',
       cta: 'Diskusikan Proyek',
       ctaLink: '#contact',
-      bgImage: 'https://images.unsplash.com/photo-bWVBCDtTRJI?w=1920&q=80&auto=format&fit=crop',
+      bgImage: 'https://images.unsplash.com/photo-1753715613434-9c7cb58876b9?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Mitra Teknologi Digital Anda',
       description: 'Software House adalah perusahaan pengembangan software yang berbasis di Indonesia. Sejak 2017, kami telah membantu berbagai bisnis dari startup hingga enterprise dalam mentransformasi ide menjadi solusi digital yang powerful. Tim engineer kami ahli dalam berbagai teknologi terkini dan berkomitmen menghadirkan produk berkualitas tinggi.',
-      image: 'https://images.unsplash.com/photo-v9iowyOH7QQ?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1754039985001-ccafee437736?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -722,10 +722,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Portofolio <span class="text-accent">Kami</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-bwBN3djK3GY?w=600&q=80&auto=format&fit=crop', title: 'E-Commerce Platform', category: 'Web App' },
-        { image: 'https://images.unsplash.com/photo-fdGTi4IcaJc?w=600&q=80&auto=format&fit=crop', title: 'Ride Hailing App', category: 'Mobile App' },
-        { image: 'https://images.unsplash.com/photo-kQIdjLbCghA?w=600&q=80&auto=format&fit=crop', title: 'ERP System', category: 'Enterprise' },
-        { image: 'https://images.unsplash.com/photo-O3ChbcT94NM?w=600&q=80&auto=format&fit=crop', title: 'Fintech Dashboard', category: 'Web App' },
+        { image: 'https://images.unsplash.com/photo-1778146500170-e348591739f6?w=600&q=80&auto=format&fit=crop', title: 'E-Commerce Platform', category: 'Web App' },
+        { image: 'https://images.unsplash.com/photo-1719400471588-575b23e27bd7?w=600&q=80&auto=format&fit=crop', title: 'Ride Hailing App', category: 'Mobile App' },
+        { image: 'https://images.unsplash.com/photo-1730130054404-c2bd8e7038c2?w=600&q=80&auto=format&fit=crop', title: 'ERP System', category: 'Enterprise' },
+        { image: 'https://images.unsplash.com/photo-1753715613373-90b1ea010731?w=600&q=80&auto=format&fit=crop', title: 'Fintech Dashboard', category: 'Web App' },
       ],
     },
     testimonials: {
@@ -780,7 +780,7 @@ var BRANDS = {
       description: 'Layanan digital marketing lengkap: branding, social media, SEO, dan iklan digital.',
       ogTitle: 'Digital Agency — YAIPLATFORM',
       ogDescription: 'Layanan digital marketing lengkap: branding, social media, SEO, dan iklan digital.',
-      ogImage: 'https://images.unsplash.com/photo-gEvMA8O6Et4?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1636647677481-f134fda3f408?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Digital Agency',
     },
@@ -789,12 +789,12 @@ var BRANDS = {
       subtitle: 'Kami adalah mitra digital marketing Anda. Dari strategi branding hingga eksekusi kampanye, kami hadirkan hasil yang nyata.',
       cta: 'Mulai Kolaborasi',
       ctaLink: '#contact',
-      bgImage: 'https://images.unsplash.com/photo-gEvMA8O6Et4?w=1920&q=80&auto=format&fit=crop',
+      bgImage: 'https://images.unsplash.com/photo-1636647677481-f134fda3f408?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Mitra Kreatif untuk Bisnis Anda',
       description: 'Digital Agency adalah rumah kreatif yang menggabungkan strategi, teknologi, dan desain untuk menciptakan kampanye digital yang berdampak. Sejak 2018, kami telah membantu puluhan merek meningkatkan visibilitas dan pertumbuhan bisnis mereka melalui pendekatan data-driven dan kreativitas tanpa batas.',
-      image: 'https://images.unsplash.com/photo-Vv4z4kT0Blw?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1752170080668-fa46b5539cf4?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -819,10 +819,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Portofolio <span class="text-accent">Terbaru</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-N3Bf0ArT5J0?w=600&q=80&auto=format&fit=crop', title: 'Brand Campaign F&B', category: 'Branding' },
-        { image: 'https://images.unsplash.com/photo-sOwh2ZHMGRQ?w=600&q=80&auto=format&fit=crop', title: 'Social Media Takeover', category: 'Sosial Media' },
-        { image: 'https://images.unsplash.com/photo-ylx85nvunvw?w=600&q=80&auto=format&fit=crop', title: 'E-Commerce Launch', category: 'Digital Marketing' },
-        { image: 'https://images.unsplash.com/photo-UikYLDQj9_I?w=600&q=80&auto=format&fit=crop', title: 'Company Rebranding', category: 'Branding' },
+        { image: 'https://images.unsplash.com/photo-1774600134168-b9ebd714e4e1?w=600&q=80&auto=format&fit=crop', title: 'Brand Campaign F&B', category: 'Branding' },
+        { image: 'https://images.unsplash.com/photo-1758873271949-742d6648b6b0?w=600&q=80&auto=format&fit=crop', title: 'Social Media Takeover', category: 'Sosial Media' },
+        { image: 'https://images.unsplash.com/photo-1666698809123-44e998e93f23?w=600&q=80&auto=format&fit=crop', title: 'E-Commerce Launch', category: 'Digital Marketing' },
+        { image: 'https://images.unsplash.com/photo-1758873268745-dd2cf0d677b5?w=600&q=80&auto=format&fit=crop', title: 'Company Rebranding', category: 'Branding' },
       ],
     },
     testimonials: {
@@ -877,7 +877,7 @@ var BRANDS = {
       description: 'Wedding organizer profesional untuk pernikahan impian Anda. Kreatif, detail, dan tak terlupakan.',
       ogTitle: 'Wedding — YAIPLATFORM',
       ogDescription: 'Wedding organizer profesional untuk pernikahan impian Anda.',
-      ogImage: 'https://images.unsplash.com/photo-Zi_NOBHIk9A?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1772127822525-7eda37383b9f?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Wedding',
     },
@@ -890,7 +890,7 @@ var BRANDS = {
     about: {
       title: 'Pernikahan Impian, Realisasi Sempurna',
       description: 'Wedding adalah tim kreatif yang berdedikasi mewujudkan pernikahan impian Anda. Dengan pengalaman sejak 2015, kami telah menangani lebih dari 200 pernikahan dengan berbagai konsep dan tema. Dari intimate wedding hingga grand celebration, setiap detail kami urus dengan penuh cinta dan profesionalisme.',
-      image: 'https://images.unsplash.com/photo-XGeKyTG6U6A?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1772127822552-ce9ef537bdcf?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Layanan <span class="text-accent">Kami</span>',
@@ -915,10 +915,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Portofolio <span class="text-accent">Pernikahan</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-IAXH4tMEx_s?w=600&q=80&auto=format&fit=crop', title: 'Garden Wedding Elegance', category: 'Outdoor' },
-        { image: 'https://images.unsplash.com/photo-8xGSEW7g9rw?w=600&q=80&auto=format&fit=crop', title: 'Ballroom Glamour', category: 'Indoor' },
-        { image: 'https://images.unsplash.com/photo-CnGcCzI4fOA?w=600&q=80&auto=format&fit=crop', title: 'Beach Sunset Ceremony', category: 'Outdoor' },
-        { image: 'https://images.unsplash.com/photo-5qx9X0brsDA?w=600&q=80&auto=format&fit=crop', title: 'Intimate Garden Party', category: 'Outdoor' },
+        { image: 'https://images.unsplash.com/photo-1773370812331-4e534dcf0ce1?w=600&q=80&auto=format&fit=crop', title: 'Garden Wedding Elegance', category: 'Outdoor' },
+        { image: 'https://images.unsplash.com/photo-1767824122863-2c90f807c774?w=600&q=80&auto=format&fit=crop', title: 'Ballroom Glamour', category: 'Indoor' },
+        { image: 'https://images.unsplash.com/photo-1747040762931-d1c96be72798?w=600&q=80&auto=format&fit=crop', title: 'Beach Sunset Ceremony', category: 'Outdoor' },
+        { image: 'https://images.unsplash.com/photo-1761115586938-22ac516698e2?w=600&q=80&auto=format&fit=crop', title: 'Intimate Garden Party', category: 'Outdoor' },
       ],
     },
     testimonials: {
@@ -973,7 +973,7 @@ var BRANDS = {
       description: 'Hotel dan resort mewah dengan layanan bintang lima untuk pengalaman menginap tak terlupakan.',
       ogTitle: 'Hotel — YAIPLATFORM',
       ogDescription: 'Hotel dan resort mewah dengan layanan bintang lima untuk pengalaman menginap tak terlupakan.',
-      ogImage: 'https://images.unsplash.com/photo-q2jfK0Fq6XA?w=1200&q=80&auto=format&fit=crop',
+      ogImage: 'https://images.unsplash.com/photo-1775866914943-ba1415a35afc?w=1200&q=80&auto=format&fit=crop',
       favicon: 'assets/images/favicon.svg',
       brandName: 'Hotel',
     },
@@ -986,7 +986,7 @@ var BRANDS = {
     about: {
       title: 'Keunggulan Layanan Bintang Lima',
       description: 'Hotel telah menjadi destinasi pilihan wisatawan bisnis dan liburan sejak 2014. Dengan arsitektur modern yang memadukan kenyamanan dan kemewahan, kami menawarkan 250 kamar premium, restoran kelas dunia, dan fasilitas lengkap. Tim hospitality kami berkomitmen memberikan pelayanan terbaik untuk setiap tamu.',
-      image: 'https://images.unsplash.com/photo-Yo-OcToq2XE?w=800&q=80&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1777180249046-abf7d640e0d9?w=800&q=80&auto=format&fit=crop',
     },
     services: {
       sectionTitle: 'Fasilitas <span class="text-accent">Kami</span>',
@@ -1011,10 +1011,10 @@ var BRANDS = {
     projects: {
       sectionTitle: 'Galeri <span class="text-accent">Kami</span>',
       items: [
-        { image: 'https://images.unsplash.com/photo-ZyyobP6qcvY?w=600&q=80&auto=format&fit=crop', title: 'Presidential Suite', category: 'Kamar' },
-        { image: 'https://images.unsplash.com/photo-km5I2E-mJbo?w=600&q=80&auto=format&fit=crop', title: 'Infinity Pool', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-TFXCpP5V3Ds?w=600&q=80&auto=format&fit=crop', title: 'Grand Ballroom', category: 'Fasilitas' },
-        { image: 'https://images.unsplash.com/photo-CvxbrPamJUk?w=600&q=80&auto=format&fit=crop', title: 'Fine Dining Restaurant', category: 'Restoran' },
+        { image: 'https://images.unsplash.com/photo-1776763018972-588e27bf6511?w=600&q=80&auto=format&fit=crop', title: 'Presidential Suite', category: 'Kamar' },
+        { image: 'https://images.unsplash.com/photo-1777169794972-12095816073b?w=600&q=80&auto=format&fit=crop', title: 'Infinity Pool', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1760573776062-7d2a7baeb49d?w=600&q=80&auto=format&fit=crop', title: 'Grand Ballroom', category: 'Fasilitas' },
+        { image: 'https://images.unsplash.com/photo-1753535542754-b7a8f847259a?w=600&q=80&auto=format&fit=crop', title: 'Fine Dining Restaurant', category: 'Restoran' },
       ],
     },
     testimonials: {
