@@ -114,6 +114,7 @@ var BRANDS = {
       subtitle: 'Kami menghadirkan properti terbaik di lokasi strategis dengan harga kompetitif. Dari hunian hingga investasi, semuanya lengkap di sini.',
       cta: 'Jelajahi Properti',
       ctaLink: '#contact',
+      bgImage: 'https://images.unsplash.com/photo-1716807335095-8948ce6ab482?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Mitris Properti Terpercaya Sejak 2015',
@@ -210,6 +211,7 @@ var BRANDS = {
       subtitle: 'Layanan kesehatan modern dengan tenaga medis profesional dan fasilitas terkini. Kami hadir untuk Anda dan keluarga.',
       cta: 'Jadwalkan Konsultasi',
       ctaLink: '#contact',
+      bgImage: 'https://images.unsplash.com/photo-1669930605340-801a0be1f5a3?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Layanan Kesehatan Terpercaya',
@@ -306,6 +308,7 @@ var BRANDS = {
       subtitle: 'Pengalaman perjalanan tak terlupakan dengan layanan terbaik. Dari destinasi domestik hingga internasional, kami siap mewujudkan liburan impian Anda.',
       cta: 'Pesan Sekarang',
       ctaLink: '#contact',
+      bgImage: 'https://images.unsplash.com/photo-1777907605110-14900b1789b7?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Mitra Perjalanan Terpercaya',
@@ -596,6 +599,7 @@ var BRANDS = {
       subtitle: 'Pendidikan berkualitas dengan kurikulum terpadu, tenaga pengajar profesional, dan fasilitas lengkap untuk masa depan cerah.',
       cta: 'Daftar Sekarang',
       ctaLink: '#contact',
+      bgImage: 'https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Pendidikan Berkualitas untuk Masa Depan',
@@ -886,6 +890,7 @@ var BRANDS = {
       subtitle: 'Kami mewujudkan pernikahan impian Anda dengan sentuhan kreatif, perhatian pada detail, dan pelayanan yang hangat.',
       cta: 'Konsultasi Gratis',
       ctaLink: '#contact',
+      bgImage: 'https://images.unsplash.com/photo-1772127822525-7eda37383b9f?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Pernikahan Impian, Realisasi Sempurna',
@@ -982,6 +987,7 @@ var BRANDS = {
       subtitle: 'Nikmati pengalaman menginap mewah dengan layanan bintang lima, pemandangan menakjubkan, dan fasilitas terlengkap.',
       cta: 'Pesan Sekarang',
       ctaLink: '#contact',
+      bgImage: 'https://images.unsplash.com/photo-1775866914943-ba1415a35afc?w=1920&q=80&auto=format&fit=crop',
     },
     about: {
       title: 'Keunggulan Layanan Bintang Lima',
