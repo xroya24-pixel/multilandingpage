@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" preserveAspectRatio="xMidYMid slice">
+  <!-- Ganti file ini dengan foto properti modern (.jpg/.webp) -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8499b0"/>
+      <stop offset="0.6" stop-color="#c4b59a"/>
+      <stop offset="1" stop-color="#e8dcc4"/>
+    </linearGradient>
+    <linearGradient id="bldgFar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a6b85"/>
+      <stop offset="1" stop-color="#3d4a60"/>
+    </linearGradient>
+    <linearGradient id="bldgMid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2e3a4f"/>
+      <stop offset="1" stop-color="#1a2333"/>
+    </linearGradient>
+    <linearGradient id="bldgNear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="1920" height="1080" fill="url(#sky)"/>
+
+  <!-- Sun glow -->
+  <circle cx="1400" cy="280" r="120" fill="#f5e6c8" opacity="0.4"/>
+
+  <!-- Far buildings -->
+  <g fill="url(#bldgFar)" opacity="0.6">
+    <rect x="100" y="540" width="120" height="540"/>
+    <rect x="260" y="460" width="100" height="620"/>
+    <rect x="380" y="580" width="90" height="500"/>
+    <rect x="520" y="420" width="130" height="660"/>
+    <rect x="700" y="500" width="110" height="580"/>
+    <rect x="860" y="440" width="100" height="640"/>
+    <rect x="1020" y="560" width="120" height="520"/>
+    <rect x="1200" y="480" width="100" height="600"/>
+    <rect x="1360" y="540" width="90" height="540"/>
+    <rect x="1500" y="460" width="120" height="620"/>
+    <rect x="1660" y="520" width="100" height="560"/>
+    <rect x="1810" y="500" width="110" height="580"/>
+  </g>
+
+  <!-- Mid buildings -->
+  <g fill="url(#bldgMid)">
+    <rect x="40" y="640" width="160" height="440"/>
+    <rect x="240" y="560" width="180" height="520"/>
+    <rect x="460" y="680" width="140" height="400"/>
+    <rect x="640" y="520" width="200" height="560"/>
+    <rect x="880" y="600" width="160" height="480"/>
+    <rect x="1080" y="540" width="180" height="540"/>
+    <rect x="1300" y="620" width="150" height="460"/>
+    <rect x="1500" y="560" width="170" height="520"/>
+    <rect x="1710" y="640" width="140" height="440"/>
+  </g>
+
+  <!-- Window lights (mid) -->
+  <g fill="#c8a96a" opacity="0.5">
+    <rect x="70" y="700" width="14" height="14"/><rect x="100" y="700" width="14" height="14"/>
+    <rect x="70" y="740" width="14" height="14"/><rect x="130" y="700" width="14" height="14"/>
+    <rect x="160" y="740" width="14" height="14"/><rect x="100" y="780" width="14" height="14"/>
+    <rect x="270" y="620" width="14" height="14"/><rect x="300" y="660" width="14" height="14"/>
+    <rect x="330" y="620" width="14" height="14"/><rect x="360" y="660" width="14" height="14"/>
+    <rect x="390" y="620" width="14" height="14"/><rect x="270" y="700" width="14" height="14"/>
+    <rect x="670" y="580" width="14" height="14"/><rect x="700" y="620" width="14" height="14"/>
+    <rect x="730" y="580" width="14" height="14"/><rect x="760" y="620" width="14" height="14"/>
+    <rect x="790" y="580" width="14" height="14"/><rect x="700" y="660" width="14" height="14"/>
+    <rect x="760" y="700" width="14" height="14"/><rect x="1110" y="600" width="14" height="14"/>
+    <rect x="1140" y="640" width="14" height="14"/><rect x="1170" y="600" width="14" height="14"/>
+    <rect x="1200" y="640" width="14" height="14"/><rect x="1140" y="680" width="14" height="14"/>
+    <rect x="1530" y="620" width="14" height="14"/><rect x="1560" y="660" width="14" height="14"/>
+    <rect x="1590" y="620" width="14" height="14"/><rect x="1620" y="660" width="14" height="14"/>
+  </g>
+
+  <!-- Near buildings (tallest, foreground) -->
+  <g fill="url(#bldgNear)">
+    <rect x="0" y="740" width="280" height="340"/>
+    <rect x="320" y="620" width="220" height="460"/>
+    <rect x="580" y="700" width="180" height="380"/>
+    <rect x="800" y="560" width="260" height="520"/>
+    <rect x="1100" y="680" width="200" height="400"/>
+    <rect x="1340" y="620" width="240" height="460"/>
+    <rect x="1620" y="720" width="180" height="360"/>
+    <rect x="1830" y="680" width="90" height="400"/>
+  </g>
+
+  <!-- Window grid (near) -->
+  <g fill="#c8a96a" opacity="0.35">
+    <rect x="340" y="660" width="12" height="16"/><rect x="364" y="660" width="12" height="16"/>
+    <rect x="388" y="660" width="12" height="16"/><rect x="412" y="660" width="12" height="16"/>
+    <rect x="340" y="690" width="12" height="16"/><rect x="388" y="690" width="12" height="16"/>
+    <rect x="412" y="690" width="12" height="16"/><rect x="364" y="720" width="12" height="16"/>
+    <rect x="412" y="720" width="12" height="16"/><rect x="388" y="750" width="12" height="16"/>
+    <rect x="820" y="600" width="12" height="16"/><rect x="844" y="600" width="12" height="16"/>
+    <rect x="868" y="600" width="12" height="16"/><rect x="892" y="600" width="12" height="16"/>
+    <rect x="916" y="600" width="12" height="16"/><rect x="940" y="600" width="12" height="16"/>
+    <rect x="820" y="630" width="12" height="16"/><rect x="868" y="630" width="12" height="16"/>
+    <rect x="916" y="630" width="12" height="16"/><rect x="940" y="630" width="12" height="16"/>
+    <rect x="844" y="660" width="12" height="16"/><rect x="892" y="660" width="12" height="16"/>
+    <rect x="916" y="660" width="12" height="16"/><rect x="820" y="690" width="12" height="16"/>
+    <rect x="868" y="690" width="12" height="16"/><rect x="940" y="690" width="12" height="16"/>
+    <rect x="1360" y="660" width="12" height="16"/><rect x="1384" y="660" width="12" height="16"/>
+    <rect x="1408" y="660" width="12" height="16"/><rect x="1432" y="660" width="12" height="16"/>
+    <rect x="1456" y="660" width="12" height="16"/><rect x="1360" y="690" width="12" height="16"/>
+    <rect x="1408" y="690" width="12" height="16"/><rect x="1456" y="690" width="12" height="16"/>
+    <rect x="1384" y="720" width="12" height="16"/><rect x="1432" y="720" width="12" height="16"/>
+    <rect x="1408" y="750" width="12" height="16"/><rect x="1456" y="750" width="12" height="16"/>
+  </g>
+
+  <!-- Ground reflection -->
+  <rect x="0" y="1050" width="1920" height="30" fill="#0f172a" opacity="0.6"/>
+</svg>

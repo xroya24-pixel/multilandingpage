@@ -1,0 +1,4 @@
+# Ignore raster image files — using Unsplash URLs instead
+assets/images/**/*.jpg
+assets/images/**/*.png
+assets/images/**/*.jpeg

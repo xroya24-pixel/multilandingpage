@@ -1,0 +1,126 @@
+/* ================================================================
+   YAIPLATFORM — Brand Color Schemes
+   ================================================================ */
+
+[data-brand="properti"] {
+  --color-primary: #080C14;
+  --color-secondary: #121B29;
+  --color-accent: #D4B77A;
+  --color-accent-dark: #C4A76A;
+  --color-bg: #F6F4F0;
+  --color-text: #171717;
+  --color-text-muted: #787878;
+  --color-card: #FFFFFF;
+  --color-border: #E6E2DC;
+}
+
+[data-brand="klinik"] {
+  --color-primary: #073B33;
+  --color-secondary: #0D5C50;
+  --color-accent: #7FC8B0;
+  --color-accent-dark: #5DB89D;
+  --color-bg: #F0F6F4;
+  --color-text: #1A1A1A;
+  --color-text-muted: #6B7E78;
+  --color-card: #FFFFFF;
+  --color-border: #DCE8E4;
+}
+
+[data-brand="travel"] {
+  --color-primary: #0A2840;
+  --color-secondary: #154B6E;
+  --color-accent: #E8B86D;
+  --color-accent-dark: #D4A85A;
+  --color-bg: #F5F3EF;
+  --color-text: #1A1A1A;
+  --color-text-muted: #6B7A85;
+  --color-card: #FFFFFF;
+  --color-border: #E0E2E4;
+}
+
+[data-brand="dealer-mobil"] {
+  --color-primary: #1C1111;
+  --color-secondary: #2D1C1C;
+  --color-accent: #D4A574;
+  --color-accent-dark: #C49664;
+  --color-bg: #F4F3F1;
+  --color-text: #1A1A1A;
+  --color-text-muted: #7A7474;
+  --color-card: #FFFFFF;
+  --color-border: #E0DDDD;
+}
+
+[data-brand="dealer-motor"] {
+  --color-primary: #1A1F2E;
+  --color-secondary: #2A3147;
+  --color-accent: #F07A3A;
+  --color-accent-dark: #D96A2E;
+  --color-bg: #F4F4F6;
+  --color-text: #1A1A1A;
+  --color-text-muted: #7A7D8A;
+  --color-card: #FFFFFF;
+  --color-border: #DEDFE5;
+}
+
+[data-brand="sekolah"] {
+  --color-primary: #1A2F3A;
+  --color-secondary: #2A4758;
+  --color-accent: #E8C84A;
+  --color-accent-dark: #D4B838;
+  --color-bg: #F4F5F2;
+  --color-text: #1A1A1A;
+  --color-text-muted: #6B7680;
+  --color-card: #FFFFFF;
+  --color-border: #DEE0DC;
+}
+
+[data-brand="software-house"] {
+  --color-primary: #1A1040;
+  --color-secondary: #2D1A6E;
+  --color-accent: #6C8CFF;
+  --color-accent-dark: #5A7AE8;
+  --color-bg: #F2F1F8;
+  --color-text: #1A1A1A;
+  --color-text-muted: #6E6B85;
+  --color-card: #FFFFFF;
+  --color-border: #DCDAE6;
+}
+
+[data-brand="digital-agency"] {
+  --color-primary: #2D0A3C;
+  --color-secondary: #4D1568;
+  --color-accent: #E86EB8;
+  --color-accent-dark: #D45AA8;
+  --color-bg: #F7F2F6;
+  --color-text: #1A1A1A;
+  --color-text-muted: #806B80;
+  --color-card: #FFFFFF;
+  --color-border: #E4DAE2;
+}
+
+[data-brand="wedding"] {
+  --color-primary: #3A1A28;
+  --color-secondary: #5C2A40;
+  --color-accent: #E8B4C0;
+  --color-accent-dark: #D49EAA;
+  --color-bg: #FBF6F5;
+  --color-text: #1A1A1A;
+  --color-text-muted: #8C7A80;
+  --color-card: #FFFFFF;
+  --color-border: #EDE2E4;
+}
+
+[data-brand="hotel"] {
+  --color-primary: #1C1814;
+  --color-secondary: #2E2822;
+  --color-accent: #C8A86A;
+  --color-accent-dark: #B8985A;
+  --color-bg: #F5F3F0;
+  --color-text: #1A1A1A;
+  --color-text-muted: #7A7672;
+  --color-card: #FFFFFF;
+  --color-border: #E2DED9;
+}
+
+/* Re-apply all var() references with the new values */
+/* This file must be loaded AFTER style.css to override CSS variables */

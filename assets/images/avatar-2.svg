@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
+  <!-- Avatar Sarah Wijaya — kepala profesional feminin -->
+  <defs>
+    <radialGradient id="a2-bg" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f1f0ed"/>
+      <stop offset="1" stop-color="#e2ddd4"/>
+    </radialGradient>
+  </defs>
+  <circle cx="28" cy="28" r="28" fill="url(#a2-bg)"/>
+  <circle cx="28" cy="28" r="28" fill="#c8a96a" opacity="0.04"/>
+
+  <!-- Blazer body -->
+  <path d="M17 48 Q17 36 28 34 Q39 36 39 48 Z" fill="#1e293b"/>
+
+  <!-- Blazer lapel -->
+  <path d="M24 34 L28 39 L32 34" fill="#c8a96a" opacity="0.6"/>
+
+  <!-- Head -->
+  <circle cx="28" cy="22" r="12" fill="#475569" opacity="0.2"/>
+  <circle cx="28" cy="22" r="11" fill="#475569" opacity="0.25"/>
+
+  <!-- Hair — long, sleek -->
+  <path d="M17 20 Q16 10 20 8 Q24 6 28 6 Q32 6 36 8 Q40 10 39 20
+           Q40 26 39 32 Q38 36 37 38
+           Q35 36 36 32
+           Q20 36 19 32
+           Q18 26 17 20 Z" fill="#1e293b"/>
+
+  <!-- Face -->
+  <circle cx="28" cy="23" r="9.5" fill="#cbd5e1" opacity="0.3"/>
+
+  <!-- Earrings -->
+  <circle cx="18.5" cy="25" r="1.2" fill="#c8a96a"/>
+  <circle cx="37.5" cy="25" r="1.2" fill="#c8a96a"/>
+
+  <!-- Eyes -->
+  <ellipse cx="24" cy="22.5" rx="1.5" ry="1" fill="#1e293b" opacity="0.5"/>
+  <ellipse cx="32" cy="22.5" rx="1.5" ry="1" fill="#1e293b" opacity="0.5"/>
+
+  <!-- Smile -->
+  <path d="M25 27.5 Q28 29.5 31 27.5" fill="none" stroke="#475569" stroke-width="0.7" stroke-linecap="round"/>
+</svg>

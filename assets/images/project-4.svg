@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" preserveAspectRatio="xMidYMid slice">
+  <!-- Riverside Townhouse — deret townhouse -->
+  <defs>
+    <linearGradient id="p4-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fa5bc"/>
+      <stop offset="1" stop-color="#dfe8f0"/>
+    </linearGradient>
+    <linearGradient id="p4-wall1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8e4dc"/>
+      <stop offset="1" stop-color="#c8c2b6"/>
+    </linearGradient>
+    <linearGradient id="p4-wall2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a4756"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="450" fill="url(#p4-sky)"/>
+
+  <!-- Distant trees -->
+  <g fill="#6b8060" opacity="0.3">
+    <circle cx="50" cy="280" r="50"/>
+    <circle cx="550" cy="280" r="55"/>
+  </g>
+
+  <!-- River foreground -->
+  <rect x="0" y="380" width="600" height="70" fill="#5a7080" opacity="0.5"/>
+  <g stroke="#a0b8c8" stroke-width="1.5" opacity="0.5" fill="none">
+    <line x1="40" y1="400" x2="180" y2="400"/>
+    <line x1="220" y1="415" x2="380" y2="415"/>
+    <line x1="420" y1="405" x2="560" y2="405"/>
+  </g>
+
+  <!-- Townhouse units — alternating colors -->
+  <!-- Unit 1 -->
+  <rect x="60" y="200" width="110" height="180" fill="url(#p4-wall1)"/>
+  <rect x="55" y="185" width="120" height="20" fill="#1e293b"/>
+  <rect x="80" y="250" width="30" height="50" fill="url(#p4-wall2)"/>
+  <rect x="120" y="250" width="30" height="50" fill="url(#p4-wall2)" opacity="0.7"/>
+  <rect x="95" y="320" width="40" height="60" fill="#475569"/>
+
+  <!-- Unit 2 -->
+  <rect x="180" y="200" width="110" height="180" fill="url(#p4-wall2)"/>
+  <rect x="175" y="185" width="120" height="20" fill="#0f172a"/>
+  <rect x="200" y="250" width="30" height="50" fill="#c8a96a" opacity="0.35"/>
+  <rect x="240" y="250" width="30" height="50" fill="#c8a96a" opacity="0.5"/>
+  <rect x="215" y="320" width="40" height="60" fill="#94a3b8"/>
+
+  <!-- Unit 3 -->
+  <rect x="300" y="200" width="110" height="180" fill="url(#p4-wall1)"/>
+  <rect x="295" y="185" width="120" height="20" fill="#1e293b"/>
+  <rect x="320" y="250" width="30" height="50" fill="url(#p4-wall2)"/>
+  <rect x="360" y="250" width="30" height="50" fill="url(#p4-wall2)" opacity="0.7"/>
+  <rect x="335" y="320" width="40" height="60" fill="#475569"/>
+
+  <!-- Unit 4 -->
+  <rect x="420" y="200" width="110" height="180" fill="url(#p4-wall2)"/>
+  <rect x="415" y="185" width="120" height="20" fill="#0f172a"/>
+  <rect x="440" y="250" width="30" height="50" fill="#c8a96a" opacity="0.35"/>
+  <rect x="480" y="250" width="30" height="50" fill="#c8a96a" opacity="0.5"/>
+  <rect x="455" y="320" width="40" height="60" fill="#94a3b8"/>
+
+  <!-- Accent detail -->
+  <rect x="60" y="200" width="470" height="4" fill="#c8a96a" opacity="0.6"/>
+</svg>
